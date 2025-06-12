@@ -114,7 +114,7 @@ Follow these steps to run the project locally.
 7. **Run the Backend**:
    ```bash
    cd server
-   npm run dev
+   npm start
    ```
    The backend will run on `http://localhost:5000`.
 
